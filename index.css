@@ -1,0 +1,61 @@
+#gym_ai_intro {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+    url('https://img1.wsimg.com/isteam/stock/606/:/rs=w:2560');
+    background-size: auto auto;
+
+    height: 1000px;
+    width: 100%;
+}
+
+
+#intro_h1 {
+    justify-content: center;
+    text-align: center;
+    padding-top: 400px;
+    font-size: xxx-large;
+
+    color: ghostwhite;
+}
+
+#intro_all {
+    margin-top: 100px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#intro_img {
+    width: 200px;
+    height: 200px;
+
+}
+
+#intro_desc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 500px;
+    height: 200px;
+    border-radius: 10px;
+
+    font-size: large;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    font-size: large;
+}
+
+.product-gallery {
+    display: none;
+}
+
+.contact-us {
+    margin: 100px 0;
+}
