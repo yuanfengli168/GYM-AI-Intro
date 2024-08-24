@@ -7,3 +7,10 @@
 3. Index.html added, but how to see the changes before you pushed it again?
     - [eziest] copy the path of your index.html, and copy paste it into chrome, reload the page manually. 
 
+
+## Appendix: 
+### Learnings Docs: 
+1. HTML Learnings.md in Docs
+2. CSS Learnings.md in Docs
+
+
